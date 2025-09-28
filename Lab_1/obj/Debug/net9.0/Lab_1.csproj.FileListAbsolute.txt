@@ -1,0 +1,15 @@
+D:\!univer\2kyrs\alg\labs\lab1\Lab_1\bin\Debug\net9.0\Lab_1.exe
+D:\!univer\2kyrs\alg\labs\lab1\Lab_1\bin\Debug\net9.0\Lab_1.deps.json
+D:\!univer\2kyrs\alg\labs\lab1\Lab_1\bin\Debug\net9.0\Lab_1.runtimeconfig.json
+D:\!univer\2kyrs\alg\labs\lab1\Lab_1\bin\Debug\net9.0\Lab_1.dll
+D:\!univer\2kyrs\alg\labs\lab1\Lab_1\bin\Debug\net9.0\Lab_1.pdb
+D:\!univer\2kyrs\alg\labs\lab1\Lab_1\obj\Debug\net9.0\Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\!univer\2kyrs\alg\labs\lab1\Lab_1\obj\Debug\net9.0\Lab_1.AssemblyInfoInputs.cache
+D:\!univer\2kyrs\alg\labs\lab1\Lab_1\obj\Debug\net9.0\Lab_1.AssemblyInfo.cs
+D:\!univer\2kyrs\alg\labs\lab1\Lab_1\obj\Debug\net9.0\Lab_1.csproj.CoreCompileInputs.cache
+D:\!univer\2kyrs\alg\labs\lab1\Lab_1\obj\Debug\net9.0\Lab_1.sourcelink.json
+D:\!univer\2kyrs\alg\labs\lab1\Lab_1\obj\Debug\net9.0\Lab_1.dll
+D:\!univer\2kyrs\alg\labs\lab1\Lab_1\obj\Debug\net9.0\refint\Lab_1.dll
+D:\!univer\2kyrs\alg\labs\lab1\Lab_1\obj\Debug\net9.0\Lab_1.pdb
+D:\!univer\2kyrs\alg\labs\lab1\Lab_1\obj\Debug\net9.0\Lab_1.genruntimeconfig.cache
+D:\!univer\2kyrs\alg\labs\lab1\Lab_1\obj\Debug\net9.0\ref\Lab_1.dll
